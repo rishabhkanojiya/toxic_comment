@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.vscode
+__pycache__
+*pyc
+sample_submission.csv
+test.csv
+test_labels.csv
+train.csv
+large_files
